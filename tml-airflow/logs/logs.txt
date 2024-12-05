@@ -12198,3 +12198,4 @@ fatal: adding files failed
 [INFO 2024-12-05_01:44:29] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-greonproject-4ce8.py
 [INFO 2024-12-05_01:44:38] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-greonproject-4ce8.py
 [INFO 2024-12-05_01:44:44] Visualization DAG in tml_system_step_7_kafka_visualization_dag-greonproject-4ce8.py
+[INFO 2024-12-05_01:45:04] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-greonproject-4ce8.py
