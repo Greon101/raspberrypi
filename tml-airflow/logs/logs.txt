@@ -12210,3 +12210,4 @@ fatal: adding files failed
 [INFO 2024-12-05_17:06:39] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-greonproject-4ce8.py
 [INFO 2024-12-05_17:06:46] Visualization DAG in tml_system_step_7_kafka_visualization_dag-greonproject-4ce8.py
 [INFO 2024-12-05_17:07:11] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-greonproject-4ce8.py
+[INFO 2024-12-05_17:07:49] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-greonproject-4ce8.py
