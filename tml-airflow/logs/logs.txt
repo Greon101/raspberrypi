@@ -12205,3 +12205,4 @@ fatal: adding files failed
 [INFO 2024-12-05_17:05:19] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-greonproject-4ce8.py
 [INFO 2024-12-05_17:05:30] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-greonproject-4ce8.py
 [INFO 2024-12-05_17:05:41] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-greonproject-4ce8.py
+[INFO 2024-12-05_17:05:50] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-greonproject-4ce8.py
