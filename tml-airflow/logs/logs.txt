@@ -12251,3 +12251,4 @@ Already up to date.
 [INFO 2024-12-05_17:44:40] Visualization DAG in tml_system_step_7_kafka_visualization_dag-greonproject-4ce8.py
 [INFO 2024-12-05_17:45:03] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-greonproject-4ce8.py
 [INFO 2024-12-05_17:45:35] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-greonproject-4ce8.py
+[INFO 2024-12-05_17:49:59] {'name': ['Project with slug "greonproject-4ce8" already exists.']}
