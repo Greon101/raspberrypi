@@ -12241,3 +12241,4 @@ Already up to date.
 [INFO 2024-12-05_17:37:30] TML Solution Studio: git push Status for project greonproject-4ce8: Everything up-to-date
 [INFO 2024-12-05_17:43:10] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-greonproject-4ce8.py
 [INFO 2024-12-05_17:43:19] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-greonproject-4ce8.py
+[INFO 2024-12-05_17:43:27] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-greonproject-4ce8.py
