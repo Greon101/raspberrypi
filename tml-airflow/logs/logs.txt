@@ -12196,3 +12196,4 @@ fatal: adding files failed
 [INFO 2024-12-05_01:43:51] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-greonproject-4ce8.py
 [INFO 2024-12-05_01:44:01] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-greonproject-4ce8.py
 [INFO 2024-12-05_01:44:29] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-greonproject-4ce8.py
+[INFO 2024-12-05_01:44:38] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-greonproject-4ce8.py
